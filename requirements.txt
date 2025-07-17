@@ -1,0 +1,7 @@
+streamlit
+pyttsx3
+qrcode
+pydantic
+sounddevice
+scipy
+whisper
