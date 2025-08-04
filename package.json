@@ -1,0 +1,47 @@
+{
+  "name": "gtok-tok-chat-mandar-afroasiatic-futuristic-language-codex-platform",
+  "version": "1.0.0",
+  "description": "Advanced chat platform with AfroAsiatic futuristic language codex capabilities",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "openai": "^4.0.0",
+    "ai": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0"
+  },
+  "keywords": [
+    "chat",
+    "language",
+    "codex",
+    "afroasiatic",
+    "futuristic",
+    "ai",
+    "nextjs",
+    "typescript"
+  ],
+  "author": "gTek-Keys",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gTek-Keys/gTok-Tok-Chat-Mandar-n-AfroAsiaticFuturistic-Language-Codex-Platform-"
+  }
+}

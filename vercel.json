@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ],
+  "env": {
+    "OPENAI_API_KEY": "@openai_api_key",
+    "CLOUDFLARE_AI_KEY": "@cloudflare_ai_key",
+    "NEXT_PUBLIC_CLOUDFLARE_AI_GATEWAY_URL": "https://ai.cloudflare.com/gateway",
+    "NEXT_PUBLIC_APP_NAME": "Mandar:)N™ Codex Gateway",
+    "NEXT_PUBLIC_APP_VERSION": "1.0.0"
+  },
+  "functions": {
+    "pages/api/**/*.ts": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}

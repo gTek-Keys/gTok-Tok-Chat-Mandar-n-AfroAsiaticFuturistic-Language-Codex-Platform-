@@ -1,0 +1,22 @@
+{
+  "name": "Digestive Capsule",
+  "version": "1.0.0",
+  "description": "Codex digestive capsule metadata for the gTok-Tok platform",
+  "type": "metadata",
+  "created": "2025-08-04",
+  "metadata": {
+    "platform": "gTok-Tok-Chat-Mandar",
+    "language": "AfroAsiaticFuturistic",
+    "capsule_id": "digestive_001",
+    "attributes": {
+      "digestibility": "high",
+      "compression_ratio": 0.85,
+      "encoding": "utf-8",
+      "format": "json"
+    },
+    "schema_version": "1.0",
+    "last_updated": "2025-08-04T00:00:00Z"
+  },
+  "vault_location": "/public/vault",
+  "access_level": "public"
+}
