@@ -1,0 +1,10 @@
+{
+  "project": "Sovereign Fathers Chat Protocol",
+  "estate": "JEROME ELSTON HILL JR. ESTATE",
+  "version": "2.3-Estate",
+  "sovereign": true,
+  "enforcement": {
+    "trace_enabled": true,
+    "auto_quarantine": true
+  }
+}

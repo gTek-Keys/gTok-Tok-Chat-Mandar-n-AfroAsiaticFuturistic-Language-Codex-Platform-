@@ -1,0 +1,19 @@
+{
+  "name": "148 Spinnaker Codex Lease",
+  "description": "A sovereign NFT documenting the Codex Lease Agreement and protections under BFH TRUST DESIGNS for 148 Spinnaker Way.",
+  "external_url": "https://psychic-space-acorn-v6vq97w4pg6jh6p7v.github.dev/",
+  "image": "https://psychic-space-acorn-v6vq97w4pg6jh6p7v.github.dev/assets/148_Spinnaker_CodexLease_QR_LinkedToGithub.png",
+  "crid": "51509329",
+  "mid": ["903876533", "903876666", "903876667"],
+  "issuer": "Jerome Elston Hill Jr. Estate",
+  "origin_address": "66 Franklin St STE 300, Oakland, CA 94607-3734",
+  "smart_contract_template": "ERC721 with metadata hash and sovereign protection clause",
+  "attributes": [
+    {"trait_type": "Legal Status", "value": "Filed"},
+    {"trait_type": "CRID", "value": "51509329"},
+    {"trait_type": "MID", "value": "903876533"},
+    {"trait_type": "Jurisdiction", "value": "Los Angeles Superior Court"},
+    {"trait_type": "Filing Date", "value": "2025-03-03"},
+    {"trait_type": "Codex ID", "value": "DOMINICK-MTANDULUSIA-002"}
+  ]
+}

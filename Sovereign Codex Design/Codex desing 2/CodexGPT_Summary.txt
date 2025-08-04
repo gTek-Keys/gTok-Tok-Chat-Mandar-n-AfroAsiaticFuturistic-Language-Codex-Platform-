@@ -1,0 +1,7 @@
+CodexGPT Sovereign Forge
+========================
+Created By: Commander Tok + gTek Industries
+License: gTek Industries OmniLicense v2.2.2.2
+
+Summary:
+This repository enables the creation, licensing, NFT-minting, and usage-tracking of AI-generated GPT agents tied to blockchain-verified ownership. GPTs are monetized through initial sale and usage-based smart contracts deployed on Solana. Designed for sovereign creators and digital entrepreneurs, the system supports total autonomy and digital traceability.

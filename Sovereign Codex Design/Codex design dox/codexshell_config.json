@@ -1,0 +1,1 @@
+{ "profile": "JHILL-THM-ARCH", "chain": "polygon", "vault_root": "./vault", "crid": "JHILL-THM-ARCH-CRID-51509329", "tokens": { "currency": "$TOKN", "staking": true } }

@@ -1,0 +1,41 @@
+CodexGPT Sovereign Forge — Whitepaper
+======================================
+
+1. Abstract
+CodexGPT Sovereign Forge is a sovereign infrastructure for creating custom AI chat agents tied to smart contracts and NFTs. It enables fair licensing, usage enforcement, and decentralized monetization for AI developers.
+
+2. Problem
+Creators have no way to monetize the post-sale usage of their chatbots, nor protect their GPTs from being cloned or misused.
+
+3. Solution
+This system integrates:
+- GPT Creation Protocols
+- Cybersecurity Metadata
+- Smart Contract Licensing on Solana
+- NFT Asset Wrappers for GPT Identity
+- Automated Usage Tolling
+
+4. Architecture
+- Smart contract: Solana Anchor
+- Frontend: Web3 + Phantom Integration
+- Metadata: JSON structure for identity & tier
+- NFT Minting: Metaplex Candy Machine compatible
+
+5. Usage Model
+- Initial Sale: $25–$250 tiered
+- Usage Toll: Paid per access session
+- Updates, forks, and versions encoded into NFT metadata
+
+6. Enforcement
+- Cybertrace on GPT access logs
+- Double Equity Toll clause for unauthorized clones
+- License audit path embedded in token logic
+
+7. Funding & Monetization
+- Direct sales
+- Licensing
+- Token gate unlocks
+- Creator DAO potential
+
+8. Conclusion
+CodexGPT Sovereign Forge is a vision-forward deployment for sovereign creators seeking independence in the age of autonomous agents.

@@ -1,0 +1,32 @@
+
+Resume Digest Report – gTek Sovereign Terminal Log
+Generated: 2025-06-30 16:19:15
+
+Files Processed: 1120114
+Folders Audited: 2
+
+Identified Categories:
+unclassified
+
+Top File Entries:
+- gTekCodex_AnchorRecovery_Pro_Safe.py (unclassified) — 2.03 KB — unknown — path: /Users/bfh/gTekCodex_AnchorRecovery_Pro_Safe.py
+- gtek_email_scraper.py (unclassified) — 2.0 KB — unknown — path: /Users/bfh/gtek_email_scraper.py
+- gTek_PythonPush_FilingCabinet_Cleanser.py (unclassified) — 2.66 KB — unknown — path: /Users/bfh/gTek_PythonPush_FilingCabinet_Cleanser.py
+- digest_audit.py (unclassified) — 1.46 KB — unknown — path: /Users/bfh/digest_audit.py
+- gtek_push_script.py (unclassified) — 1.3 KB — unknown — path: /Users/bfh/gtek_push_script.py
+- drive_bookkeeping.json (unclassified) — 219466.51 KB — unknown — path: /Users/bfh/Codex_Drive_Sweep_Reports/drive_bookkeeping.json
+- Digest_Chain_Summary.json (unclassified) — 0.42 KB — unknown — path: /Users/bfh/Codex_Recovered_Anchor/Digest_Chain_Summary.json
+- api_keys_vault_synced.json (unclassified) — 0.76 KB — unknown — path: /Users/bfh/Codex_Recovered_Anchor/api_keys_vault_synced.json
+- LUX_COIN_Metadata_Registry.json (unclassified) — 0.48 KB — unknown — path: /Users/bfh/Codex_Recovered_Anchor/LUX_COIN_Metadata_Registry.json
+- Digest_README.md (unclassified) — 0.56 KB — unknown — path: /Users/bfh/Codex_Recovered_Anchor/Digest_README.md
+- RELEASE_NOTES.md (unclassified) — 2.8 KB — unknown — path: /Users/bfh/Codex_Recovered_Anchor/RELEASE_NOTES.md
+- CodexVault_Digest_Entry_006.json (unclassified) — 0.63 KB — unknown — path: /Users/bfh/Codex_Recovered_Anchor/CodexVault_Digest_Entry_006.json
+- package-lock.json (unclassified) — 652.78 KB — unknown — path: /Users/bfh/frontend/package-lock.json
+- package.json (unclassified) — 0.97 KB — unknown — path: /Users/bfh/frontend/package.json
+- gTek_Audit_Log.md (unclassified) — 3.99 KB — unknown — path: /Users/bfh/Sovereign_Fathers_Chat_Final/gTek_Audit_Log.md
+- gTek_Audit_Summary.ipynb (unclassified) — 0.37 KB — unknown — path: /Users/bfh/Sovereign_Fathers_Chat_Final/gTek_Audit_Summary.ipynb
+- gTek_auto_sync_push.py (unclassified) — 0.84 KB — unknown — path: /Users/bfh/Sovereign_Fathers_Chat_Final/gTek_auto_sync_push.py
+- gtek_hyper.md (unclassified) — 0.3 KB — unknown — path: /Users/bfh/Sovereign_Fathers_Chat_Final/gtek_hyper.md
+- gtek_autogen.py (unclassified) — 0.87 KB — unknown — path: /Users/bfh/Sovereign_Fathers_Chat_Final/gtek_autogen.py
+- sovereign_codex_ops.py (unclassified) — 0.04 KB — unknown — path: /Users/bfh/Sovereign_Fathers_Chat_Final/sovereign_codex_ops.py
+...

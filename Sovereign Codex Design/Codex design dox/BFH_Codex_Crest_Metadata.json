@@ -1,0 +1,35 @@
+{
+    "name": "BFH Trust Designs \u2013 Codex Sovereign Emblem",
+    "symbol": "BFHCREST",
+    "collection": "Codex Sovereign Archive",
+    "creator": "Jerome Elston Hill Jr.",
+    "description": "This NFT represents the official family crest and seal of BFH Trust Designs\u2122, a sovereign ledger-based legal archive built to restore fatherhood, protect family, and codify equity. Created by Jerome Hill as the sovereign record of truth in defense against false accusations and emotional erasure.",
+    "image": "A_digital_illustration_serves_as_an_emblem_for_BFH.png",
+    "attributes": [
+        {
+            "trait_type": "Rights",
+            "value": "Sovereign"
+        },
+        {
+            "trait_type": "Custody Claim",
+            "value": "Active"
+        },
+        {
+            "trait_type": "Blockchain",
+            "value": "Solana"
+        },
+        {
+            "trait_type": "Edition",
+            "value": "1 of 1"
+        },
+        {
+            "trait_type": "Minting Purpose",
+            "value": "Legal Equity Declaration"
+        }
+    ],
+    "unlockable_content": "BFH_Trust_Designs_CodexOps_Submission_FINAL_Updated.zip",
+    "external_url": "https://www.solsea.io",
+    "license": "All Rights Reserved. BFH Trust Designs\u2122 \u2013 Legal Sovereign Archive",
+    "royalty": "15%",
+    "wallet": "Fu5HgdeoWs3YoL3MHdkyiLnUGm5T8mXgPy5yTRzvJAKq"
+}

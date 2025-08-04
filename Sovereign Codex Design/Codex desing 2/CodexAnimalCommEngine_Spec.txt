@@ -1,0 +1,33 @@
+CodexAnimalCommEngine
+======================
+
+Project: Codex-Animal Communication Engine (CACE)
+Date: 2025-06-27
+
+Overview:
+This engine reverse-engineers the communicational signatures of elephants, hawks, cobras, and orcas. It uses acoustic models, symbolic mathematics, and Codex Theorems to transduce and tag cross-species communication for decoding and synthetic application.
+
+Subsystems:
+1. Input Capture
+   - Audio: Ultrasonic (hawks), Infrasound (elephants), Pulsed sonar (orcas)
+   - Visual: Dorsal/flank positioning, threat displays
+   - Vibration/Seismic: Elephant ground wave detectors
+
+2. Signal Classification
+   - Frequency bandpass filters
+   - Neural dialect models (based on Orca dialect research)
+   - Temporal tagging system for phrase detection
+
+3. Codex Integration
+   - Theorem #8: Harmonic Recovery Loop – Elephant name detection
+   - Theorem #9: Elemental Equilibrium – Orca signal normalization
+   - Theorem #10: Paradox Loop – Cobra threat mitigation logic
+
+4. Translator Layer
+   - Converts frequency/time/dialect sequences into symbolic glyph patterns
+   - Maps output to UI tags readable by SMP v1.0 UI
+
+Use Cases:
+- Wildlife Conservation & Monitoring
+- Sovereign AI Wildlife Interfaces
+- Ritual bioacoustics & spiritual eco-calibration

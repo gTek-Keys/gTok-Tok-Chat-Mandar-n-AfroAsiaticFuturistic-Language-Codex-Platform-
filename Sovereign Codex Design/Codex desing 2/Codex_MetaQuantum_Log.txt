@@ -1,0 +1,36 @@
+[2025-06-28 14:40:18] 🚀 Starting gTek Codex MetaQuantum All-Systems Script
+[2025-06-28 14:40:18] ▶️ Running Wallet Connector
+[2025-06-28 14:40:19] ✅ Wallet Connector completed.
+[2025-06-28 14:40:19] ▶️ Running Anchor Recovery
+[2025-06-28 14:45:32] 🚀 Starting gTek Codex MetaQuantum All-Systems Script
+[2025-06-28 14:45:32] ▶️ Running Wallet Connector
+[2025-06-28 14:45:33] ✅ Wallet Connector completed.
+[2025-06-28 14:45:33] ▶️ Running Anchor Recovery
+[2025-06-28 19:57:36] ✅ Anchor Recovery completed.
+[2025-06-28 19:57:36] ✅ Anchor Recovery completed.
+[2025-06-28 19:57:36] ⚠️ iTek Lux Wallet Scan script not found at expected location.
+[2025-06-28 19:57:36] ⚠️ iTek Lux Wallet Scan script not found at expected location.
+[2025-06-28 19:57:36] ▶️ Running License Collector
+[2025-06-28 19:57:36] ▶️ Running License Collector
+[2025-06-28 19:58:43] ✅ License Collector completed.
+[2025-06-28 19:58:43] ✅ License Collector completed.
+[2025-06-28 19:58:43] ⚠️ Global Audit script not found at expected location.
+[2025-06-28 19:58:43] ⚠️ Global Audit script not found at expected location.
+[2025-06-28 19:58:43] ▶️ Running NFT Mint Organizer
+[2025-06-28 19:58:43] ▶️ Running NFT Mint Organizer
+[2025-06-28 19:58:43] ❌ NFT Mint Organizer failed with error: Command '['python3', '/Users/bfh/Downloads/gtek_codex_hyper_minting_suite.py']' returned non-zero exit status 1.
+[2025-06-28 19:58:43] 🧬 All scripts complete. Codex system synchronized.
+[2025-06-28 19:58:43] ❌ NFT Mint Organizer failed with error: Command '['python3', '/Users/bfh/Downloads/gtek_codex_hyper_minting_suite.py']' returned non-zero exit status 1.
+[2025-06-28 19:58:43] 🧬 All scripts complete. Codex system synchronized.
+[2025-06-29 09:05:13] 🚀 Starting gTek Codex MetaQuantum OneShot Suite
+[2025-06-29 09:05:13] ▶️ Running gTekCodex_WalletConnect.py
+[2025-06-29 09:05:14] ✅ Completed: gTekCodex_WalletConnect.py
+[2025-06-29 09:05:14] ▶️ Running gTekCodex_AnchorRecovery_Pro_Safe.py
+[2025-06-29 13:17:41] ✅ Completed: gTekCodex_AnchorRecovery_Pro_Safe.py
+[2025-06-29 13:17:41] ⚠️ gTekCodex_iTekLux_WalletScanner_v2.py not found in ~/Downloads/
+[2025-06-29 13:17:41] ▶️ Running gTekCodex_LicenseCollector.py
+[2025-06-29 13:18:44] ✅ Completed: gTekCodex_LicenseCollector.py
+[2025-06-29 13:18:44] ⚠️ gtek_global_codex_audit.py not found in ~/Downloads/
+[2025-06-29 13:18:44] ▶️ Running gtek_codex_hyper_minting_suite.py
+[2025-06-29 13:18:44] ❌ Failed: gtek_codex_hyper_minting_suite.py | Command '['python3', '/Users/bfh/Downloads/gtek_codex_hyper_minting_suite.py']' returned non-zero exit status 1.
+[2025-06-29 13:18:44] 🔁 All MetaQuantum functions executed.

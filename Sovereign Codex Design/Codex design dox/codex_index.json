@@ -1,0 +1,41 @@
+{
+  "repository": "For-The-Law-of-Equity",
+  "version": "1.0",
+  "generated": "2025-05-21T11:17:51.590795",
+  "jurisdiction": "Los Angeles Superior Court",
+  "case_number": "25STFL02035",
+  "commander": "Jerome Elston Hill",
+  "email": "jeromehill@homemade-productions.com",
+  "codex_id": "DIV-LA-JHILL-STFL02035",
+  "crid": "51509329",
+  "mid": "903876533",
+  "documents": {
+    "court_filings": [
+      "FL-100 Petition.pdf",
+      "FL-105-GC-120 UCCJEA Declaration.pdf",
+      "FL-160 Property Declaration-Community.pdf",
+      "MC-025 Supplemental Declaration.pdf"
+    ],
+    "property_documents": [
+      "148%20Spinnaker%20Residential%20Purchase%20Agreement.pdf",
+      "seller_counter_on_148_spinnaker_.pdf",
+      "modification.pdf",
+      "offer_for_spinnaker.pdf"
+    ],
+    "va_and_service_docs": [
+      "Benefit Verification Letter.pdf",
+      "Proof of Minimum Essential Coverage Letter.pdf",
+      "download_coe.pdf",
+      "Civil Service Preference Letter.pdf",
+      "Service Verification Letter.pdf"
+    ],
+    "codex_materials": [
+      "gTek_Sovereign_Digestive_Audit.md",
+      "Legal_Audit_Report_to_Governor_Hill.pdf",
+      "Contra_Costa_Response_Affidavit.md",
+      "Codex_Readme.md",
+      "codex_mint_metadata.json"
+    ]
+  },
+  "format": "UTF-8, Formal Legal Filing"
+}

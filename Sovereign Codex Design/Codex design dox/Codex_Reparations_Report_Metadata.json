@@ -1,0 +1,36 @@
+{
+  "name": "Codex Reparations Report",
+  "description": "REPARATIONS_CX001 \u2013 A sovereign research declaration on metaphysical reparations, ancestral alignment, and planetary restoration.",
+  "external_url": "https://github.com/gTek-Keys/FuturegTekCompanyVault",
+  "image": "ipfs://QmExampleBadgeImageHash",
+  "attributes": [
+    {
+      "trait_type": "Codex Paper ID",
+      "value": "REPARATIONS_CX001"
+    },
+    {
+      "trait_type": "Estate",
+      "value": "Jerome Elston Hill Jr. Estate"
+    },
+    {
+      "trait_type": "Glyphs",
+      "value": "\ud83d\udf0f \u267e\ufe0f \ud83d\udd3a"
+    },
+    {
+      "trait_type": "System",
+      "value": "Codex Chat Sovereign Engine"
+    },
+    {
+      "trait_type": "Author",
+      "value": "Commander Tok"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "PATENT_ORCHESTRATOR_1111"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Codex Sovereign Human Rights Report"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# CodexGPT Installation Guide
+
+1. Clone the repository:
+   git clone https://github.com/gTek-Keys/Chat_Builder_Business.git
+
+2. Enter the project folder:
+   cd Chat_Builder_Business
+
+3. Install dependencies (coming soon with Web3 UI)
+
+4. Deploy contracts (instructions will be added in smart_contracts/README)
+
+5. Use Phantom wallet for minting and ownership actions.
+
+Contact support at: support@gtek-industries.org

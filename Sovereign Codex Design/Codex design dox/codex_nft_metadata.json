@@ -1,0 +1,23 @@
+{
+  "name": "Sovereign Mastery Digest",
+  "description": "Proof of Work, Time Equity, and Mastery",
+  "date": "2025-05-25T22:18:00.335389",
+  "attributes": [
+    {
+      "trait_type": "Total Entries",
+      "value": 1
+    },
+    {
+      "trait_type": "Domains",
+      "value": [
+        "General"
+      ]
+    }
+  ],
+  "logs": [
+    {
+      "event": "hourly_sync",
+      "timestamp": 1748236678.5865314
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "LUX Codex Genesis",
+  "core_chains": [
+    "Ethereum",
+    "Solana",
+    "Fantom Opera",
+    "Zora",
+    "Base",
+    "Polygon zkEVM"
+  ],
+  "extended_chains": [
+    "ZKsync Era",
+    "Aurora",
+    "Immutable zkEVM",
+    "Aleph Zero",
+    "Boba Network"
+  ],
+  "focus": "Ancestral resonance, sovereign art, cross-chain ritual deployment",
+  "creator": "Commander Tok",
+  "timestamp": "2025-05-20"
+}
